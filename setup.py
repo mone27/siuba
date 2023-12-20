@@ -26,7 +26,7 @@ setup(
     url='https://github.com/machow/siuba',
     keywords=['package', ],
     install_requires=[
-        "pandas>=0.24.0,<2.1.0",
+        "pandas>=0.24.0",
         "numpy>=1.12.0",
         "SQLAlchemy>=1.2.19",
         "PyYAML>=3.0.0"
